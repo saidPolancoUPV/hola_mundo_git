@@ -12,3 +12,6 @@ o bien tambien sepueden
   1. numeraciones
   1. es decir
   1. números
+
+la dirección de este repositorio es [esta](https://github.com/saidPolancoUPV/hola_mundo_git)
+
